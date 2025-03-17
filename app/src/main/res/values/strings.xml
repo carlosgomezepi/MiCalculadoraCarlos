@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiCalculadoraCarlos</string>
+    <string-array name="operations_array">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicación</item>
+        <item>División</item>
+    </string-array>
+</resources>
